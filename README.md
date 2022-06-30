@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xia, Qirong
 - 👀 <-These are my eyes
-- 🌱 I’m currently learning electrical engineering
+- 🌱 EE student
 - 📫 Find me here: qirong.20@intl.zju.edu.cn
 
 <!---
