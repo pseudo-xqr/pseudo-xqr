@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Xia, Qirong
-- 👀 <-These are my eyes
-- 🌱 EE student
+- 🌱 EE == Emotional and exhausted
 - 📫 Find me here: qirong.20@intl.zju.edu.cn
 
 <!---
