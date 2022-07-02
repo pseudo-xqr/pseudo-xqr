@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xia, Qirong
-- 🌱 EE == Emotional and exhausted
+- 🌱 EE == Emotional and Exhausted
 - 📫 Find me here: qirong.20@intl.zju.edu.cn
 
 <!---
