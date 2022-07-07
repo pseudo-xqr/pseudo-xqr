@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xia, Qirong
 - 🌱 EE == Emotional and Exhausted
-- 📫 Find me here: qirong.20@intl.zju.edu.cn
+- 📫 Contact me: qirong.20@intl.zju.edu.cn
 
 <!---
 pseudo-xqr/pseudo-xqr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
